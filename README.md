@@ -1,2 +1,2 @@
 # IAM-LABS
-These are labs for IAM which are shown for others wanting to get into Identity Access &amp; Management. 
+These are labs for IAM which are shown for others wanting to get into Identity Access &amp; Management. Using platforms such as Azure, AWS, CyberArk, Okta.
