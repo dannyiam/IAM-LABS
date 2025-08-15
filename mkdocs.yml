@@ -1,0 +1,27 @@
+site_name: IAM Labs
+site_description: Hands-on labs for IAM & PAM - Azure, AWS, Okta, CyberArk
+site_author: Your Name
+repo_url: https://github.com/<your-username>/iam-labs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+nav:
+  - Home: index.md
+  - Azure:
+      - MFA Setup: azure/mfa-setup.md
+  - AWS:
+      - IAM Policies: aws/iam-policies.md
+  - Okta:
+      - SAML SSO: okta/saml-sso.md
+  - CyberArk:
+      - Vaulting Overview: cyberark/vaulting-overview.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true

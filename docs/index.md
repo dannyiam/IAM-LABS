@@ -1,17 +1,5 @@
 # IAM & PAM Labs Documentation
 
-Welcome to the documentation site for the IAM Labs repository.
+Welcome to the IAM & PAM Labs site.
 
-Here you'll find:
-- Step-by-step IAM and PAM lab guides
-- Diagrams of identity flows
-- References to official documentation
-
-## Lab Categories
-- [Azure Labs](azure/)
-- [AWS Labs](aws/)
-- [Okta Labs](okta/)
-- [CyberArk Labs](cyberark/)
-
----
-**Note:** These docs are for educational purposes only | do not use real credentials in any lab.
+Use the navigation to explore labs for Azure, AWS, Okta, and CyberArk.
